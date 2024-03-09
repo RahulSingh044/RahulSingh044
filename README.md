@@ -12,7 +12,7 @@
 </div>
 <div id="intro" align="center">
   <h1>
-  Hey Coders
+  Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -20,12 +20,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
-<!--- ## :man_technologist: About Me :
-A Full Stack web dev learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. --->
+ ## :man_technologist: About Me :
+ A technical nerds | web-dev learner ...
 
 ### :hammer_and_wrench: Languages and Tools :
 
