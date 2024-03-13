@@ -21,7 +21,10 @@
 </div>
 
  ## :man_technologist: About Me :
- A technical nerds | web-dev learner ...
+ * C Advance learner
+ * Currently learning ExpressJS
+ * A little bit into web dev
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
 
