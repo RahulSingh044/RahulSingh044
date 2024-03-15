@@ -9,8 +9,8 @@
   <a href="https://www.instagram.com/rahhul_36/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
- <a href="https://twitter.com/RahulSingh3605">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+<a href="https://twitter.com/RahulSingh3605">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a></br>
 </div>
 <div id="intro" align="center">
@@ -25,7 +25,7 @@
 
  ## :man_technologist: About Me :
  * C Advance learner
- * Currently learning ExpressJS
+ * Currently learning Nodejs and its frameworks 
  * A little bit into web dev
  
 
@@ -36,6 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
