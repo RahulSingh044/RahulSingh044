@@ -25,8 +25,8 @@
 
  ## :man_technologist: About Me :
  * C Advance learner
- * Currently learning Nodejs and its frameworks 
- * A little bit into web dev
+ * Currently learning Backend with Nodejs 
+ * A little bit into frontend too
  
 
 ### :hammer_and_wrench: Languages and Tools :
