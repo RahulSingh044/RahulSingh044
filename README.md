@@ -23,11 +23,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
 </div>
 
+<!---
  ## :man_technologist: About Me :
  * C Advance learner
  * Currently learning Backend with Nodejs 
  * A little bit into frontend too
- 
+--->
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -39,6 +40,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="Mongo" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/expressjs/expressjs-original-wordmark.svg" title="Expressjs" **alt="Expressjs" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
