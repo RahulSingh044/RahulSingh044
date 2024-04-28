@@ -42,6 +42,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="Mongo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Expressjs" **alt="Expressjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-line.svg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>
 </div>
 
 ### :fire: My Stats :
