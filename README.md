@@ -1,56 +1,75 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/rahhul_36/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-<a href="https://twitter.com/RahulSingh3605">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a></br>
-</div>
-<div id="intro" align="center">
-  <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Singh!;" />
 </h1>
-</div>
+
+<h3 align="center">A passionate software developer from India</h3>
+
+<br/>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+ 
+ 🔭 I’m currently working on **Pinterest-Clone**
+ 
+ 🌱 I’m currently learning **Backend & it's Frameworks**
+
+💬 Ask me about **Node.js, javascript... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+
+ </div>
+ 
+<div align="center"> 
+  <a href="rahulsingh.dev.36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/RahulSingh3605 target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" target="_blank" />
+  </a>
+  
 </div>
 
-<!---
- ## :man_technologist: About Me :
- * C Advance learner
- * Currently learning Backend with Nodejs 
- * A little bit into frontend too
---->
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" **alt="Mongo" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Expressjs" **alt="Expressjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" **alt="Tailwindcss" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-line.svg" title="Mongoose" **alt="Mongoose" width="40" height="40"/>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" /><br>
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahulSingh044&theme=dark&background=000000)](https://git.io/streak-stats)
+<br/>
+<hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSingh044&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-RahulSingh044/RahulSingh044 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<!--
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+--!>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+<!--
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+--!>
+<br/>
