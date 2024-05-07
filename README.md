@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Pinterest-Clone**
  
- 🌱 I’m currently learning **Backend & it's Frameworks**
+ 🌱 I’m currently exploring **Backend & it's Frameworks**
 
 💬 Ask me about **Node.js, javascript... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
