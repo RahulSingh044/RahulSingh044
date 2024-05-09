@@ -26,7 +26,9 @@
   <a href="https://twitter.com/RahulSingh3605 target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" target="_blank" />
   </a>
-  
+  <a href="https://www.linkedin.com/in/rahul-singh-chouhan-381b252a9/ target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
  <hr/>
