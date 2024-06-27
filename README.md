@@ -4,14 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Singh!;" />
 </h1>
 
-<h3 align="center">A Backend Learner from India</h3>
+<h3 align="center">A Backend & Java Learner from India</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Pinterest-Clone**
- 
+ <!--
+ 🔭 I’m currently working on **JWT**
+ --!>
+    
  🌱 I’m currently exploring **Backend & it's Frameworks** and a little bit of **JAVA** too..
 
 💬 Ask me about **Node.js, javascript, C... or anything
