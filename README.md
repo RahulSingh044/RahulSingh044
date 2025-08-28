@@ -4,18 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rahul+Singh!;" />
 </h1>
 
-<h3 align="center">MERN Developer from India</h3>
+### MERN Stack Developer | Problem Solver | Tech Enthusiast 🚀
+
+I'm a passionate **full-stack web developer** building **modern, scalable, and interactive web applications** using the MERN stack. I love turning ideas into reality and continuously learning new technologies.</h3>
 
 <br/>
-
-<div align="center">
-
- 🔭 I’m currently working on **Health APP**
-
- 🌱 I’m currently exploring **NEXT JS**
-
-
- </div>
  
 <div align="center"> 
   <a href="rahulsingh.dev.36@gmail.com">
@@ -34,14 +27,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,npm,postman,nextjs,redux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,npm,postman,nextjs,redux" /> </br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,mongodb,c,java,cpp" /><br>
 </div>
 
 <br/>
-<hr/>
-
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
