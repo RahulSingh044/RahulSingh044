@@ -6,9 +6,10 @@
 
 <div align="center">
     
-### MERN Stack Developer | Problem Solver | Tech Enthusiast 🚀
+### MERN Stack Developer | Problem Solver | GO BACKEND DEVELOPER 🚀
 
 I'm a passionate **full-stack web developer** building **modern, scalable, and interactive web applications** using the MERN stack. I love turning ideas into reality and continuously learning new technologies.
+Currenly exploring backend with **GO**
 </div>
 
 <br/>
@@ -30,7 +31,7 @@ I'm a passionate **full-stack web developer** building **modern, scalable, and i
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,npm,postman,nextjs,redux,typescript" /> </br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,npm,postman,nextjs,redux,typescript,go" /> </br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,mongodb,c,prisma,postgres,cpp" /><br>
 </div>
 
